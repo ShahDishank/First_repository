@@ -1,1 +1,1 @@
-This is my menu file of version 2.
+This is my menu file of version 2. I add this line to see difference.
